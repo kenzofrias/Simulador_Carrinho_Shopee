@@ -1,7 +1,7 @@
 # PROJETO SIMULADOR DE CARRINHO SHOPEE
 
 ## Sobre o projeto
-Este projeto foi criado juntamente ao bootcampo Mobile Developer da [Digital Innovation One (DIO)](https://www.dio.me/) visando o desenvolvimento e compreendimento de modularização e criação de ideias.
+Este projeto foi criado juntamente ao Bootcamp Mobile Developer da [Digital Innovation One (DIO)](https://www.dio.me/) visando o desenvolvimento e compreendimento de modularização e criação de ideias autorais.
 
 O projeto foi desenvolvido utilizando de funções em diferentes documentos para ajudar na criação de ideias e ritmo de codificação. Ou seja, auxiliar no entendimento de cada parte do código produzido.
 
